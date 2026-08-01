@@ -178,9 +178,9 @@ What question in your own life has no logical answer? Sit with it. Don't try to 
 
 「隻手之聲是什麼？」你的邏輯腦立刻開工：也許是謎題，也許有線索，也許藏著什麼機關。你越想越用力，然後越來越煩躁。
 
-那正是它要的。「公案」（kōan）不是拿聰明去破解的謎題，而是一件用來耗盡思惟之心的工具——把理性推到牆前，推到某種更安靜、更直接、還沒被概念包裝過的東西不得不現身。
+那正是它要的。「公案」（kōan）從來就不是拿聰明去破解的謎題。它是一件用來耗盡思惟之心的工具——把理性推到牆前，推到某種更安靜、更直接、還沒被概念包裝過的東西不得不現身。
 
-禪師給學生公案，然後檢查答案——檢查的不是嘴上說了什麼，而是這個人怎麼活在那個問題裡。你騙不了它：見到就是見到，沒見到就是沒見到。你自己的人生裡，有哪個問題是沒有邏輯答案的？別急著解，讓它慢慢在你身上作用。
+禪師給學生公案，然後檢查答案——檢查的從來不是嘴上說了什麼，是這個人怎麼活在那個問題裡。你騙不了它：見到就是見到，沒見到就是沒見到。你自己的人生裡，有哪個問題是沒有邏輯答案的？別急著解，讓它慢慢在你身上作用。
 
 🪷 Bodhi Daily —— 公案、概念，還有另外 798 張卡。App Store 免費下載。
 
@@ -211,7 +211,7 @@ The thinking mind takes a step back, and what was always there steps forward.
 
 你盯著那個拼圖幾個小時，同樣幾塊翻來覆去，每種組合都試過。然後突然——你看見了。不是慢慢地看見，也不是推理的下一步。門裂開一道縫，實相灌了進來。
 
-禪宗說的「悟」（satori），並不是最終圓滿的證悟，而是一瞥。一次突然的、直接的、與自己本來面目的照面——通常很短，通常令人恍惚，通常後面還跟著一個問題：剛才那是真的嗎？
+禪宗說的「悟」（satori），並不是最終圓滿的證悟。它是一瞥。一次突然的、直接的、與自己本來面目的照面——通常很短，通常令人恍惚，通常後面還跟著一個問題：剛才那是真的嗎？
 
 禪門的說法是：悟造不出來，也逼不出來。你能做的只有整地——坐下、修行、把思惟之心耗盡——然後等。它來的時候多半在最平常的一刻：洗碗、聽見鐘聲、看雨。思惟退後一步，本來就在那裡的，便走上前來。
 
@@ -271,7 +271,7 @@ You don't need to hide what's broken in you. The breaking is part of the art.
 
 在一個迷戀光滑、嶄新、完美的時代，「侘寂」（wabi-sabi）說的正好相反：裂縫就是美的所在，殘缺就是意義。布會褪、路會磨、碗會顯老——那不是損壞，那正是重點。侘寂裡浸透了佛教的「無常」（anicca），也連著「物哀」（mono no aware）——事物流逝時那種帶著苦味的美。
 
-日本人用金來修補破掉的陶器，那叫「金繼」（kintsugi）。裂痕成了最美的部分——不是因為假裝什麼都沒發生，而是因為它承認了發生過的事。你身上壞掉的地方，不必藏。那個破裂，也是作品的一部分。
+日本人用金來修補破掉的陶器，那叫「金繼」（kintsugi）。裂痕成了最美的部分——它沒有假裝什麼都沒發生，它承認了發生過的事。你身上壞掉的地方，不必藏。那個破裂，也是作品的一部分。
 
 🪷 Bodhi Daily —— 小小的，不完美的，每一天。iOS 免費下載。
 
@@ -352,7 +352,7 @@ The Buddha walked for forty-five years teaching the same handful of things. Suff
 
 The cushion is waiting. The breath is waiting. The path is open.
 
-You don't have to be ready. You just have to begin.
+You've read 48 cards. The forty-ninth is the one where you put the phone down and sit.
 
 🪷 Bodhi Daily — the smallest possible beginning. One card. Free on the App Store.
 
@@ -362,7 +362,7 @@ You don't have to be ready. You just have to begin.
 
 這不是責備，這就是佛法運作的方式。法不是靠資訊傳遞的，它靠「做」——靠你不想坐的時候還是坐下去，靠你在射出第二支箭之前先看見它，靠你選擇呼吸而不是反應，靠你每一次忘記、每一次走偏之後，重新開始。
 
-佛陀走了四十五年，講來講去就是那幾件事：苦、苦的原因、苦的止息、以及道路。一遍又一遍，換不同的人聽，同一句話：現在坐下，現在走，現在看。蒲團在等，呼吸在等，路是開著的。你不需要準備好，你只需要開始。
+佛陀走了四十五年，講來講去就是那幾件事：苦、苦的原因、苦的止息、以及道路。一遍又一遍，換不同的人聽，同一句話：現在坐下，現在走，現在看。蒲團在等，呼吸在等，路是開著的。你讀了四十八張卡。第四十九張，是你把手機放下、坐下來的那一張。
 
 🪷 Bodhi Daily —— 最小的一個開始。一張卡。App Store 免費下載。
 
@@ -527,7 +527,7 @@ Slowing down is the genuinely radical act. Not because it's lazy. Because it mea
 
 我們把快當成前進。信更快回，飯更快吃完，早晨更快過去。但我們大部分的快都不是前進，是恐慌穿上了一件叫「效率」的外衣。我們趕，是因為怕停下來之後會感覺到什麼。
 
-慢下來才是真正激進的事。不是因為它偷懶，而是因為它意味著：你得面對自己此刻真正身處的這一刻——沒有下一件事可以躲。
+慢下來才是真正激進的事。它一點都不偷懶——它逼你面對自己此刻真正身處的這一刻，沒有下一件事可以躲。
 
 📱 Bodhi Daily —— 一張卡，一分鐘，一天裡的一次停頓。iOS 免費下載。
 
@@ -745,7 +745,7 @@ Three of the most underrated words in any language: *I don't know.*
 
 確定令人安心，卻會把心關上。一旦你確定了，你就不再看了。答案來得越快，看見的往往越少。「我不知道」則讓那扇門保持敞開。
 
-佛陀自己在《卡拉瑪經》（Kālāma Sutta）裡鼓勵人質疑一切，包括他所說的話。他賣的從來不是確定，而是一套自己去查證的方法。任何語言裡最被低估的一句話：我不知道。
+佛陀自己在《卡拉瑪經》（Kālāma Sutta）裡鼓勵人質疑一切，包括他所說的話。他賣的從來不是確定，是一套自己去查證的方法。任何語言裡最被低估的一句話：我不知道。
 
 🪷 Bodhi Daily —— 給好奇的人，不是給確定的人。iOS 免費下載。
 
@@ -988,7 +988,7 @@ Sometimes the most skilful reply is no reply. Silence is also an answer.
 
 ⸻
 
-佛法裡有如理作意（yoniso manasikāra）——通常譯作「如理的注意」。它不是壓住反應，而是在反應之前留一道縫：由你選擇回應，而不是被回應選中。
+佛法裡有如理作意（yoniso manasikāra）——通常譯作「如理的注意」。它不壓住反應。它在反應之前留一道縫：由你選擇回應，而不是被回應選中。
 
 每一則通知都是一個小小的要求：現在就回我。每一條訊息、每一封信、每一個留言。而沒有訓練過的心，每一次都立刻說好——手指比心還快。
 
@@ -1231,7 +1231,7 @@ Home is presence. Which means you can never actually be far from it.
 
 ⸻
 
-佛陀二十九歲離家，此後再沒有安定下來。他是自願成為「無家者」（anagārika）的。而他教的是：真正的歸依處（saraṇa）不是一個地點。
+佛陀二十九歲離家，此後再沒有安定下來。他是自願成為「無家者」（anagārika）的。而他教的是：歸依處（saraṇa）從來不是一個地點。
 
 家不是一個地址，是一種狀態。是一個頻率——在哪裡都可能對得上，也可能對不上，跟門牌號碼無關。
 
@@ -1389,7 +1389,7 @@ It sounds bleak stated cold. It isn't. It's the most honest — and weirdly, the
 
 Because you already knew. You've always felt the low ache running under even the good days, the sense that something is slightly off even when nothing is wrong. And every culture around you insists you should be fine, should be grateful, should be happy.
 
-The Buddha just said it plainly. *There's an ache here.* And being allowed to admit that is where the whole path begins.
+The Buddha just said it plainly. *There's an ache here.* Twenty-five centuries later, that's still the first thing the path asks you to admit.
 
 📱 Bodhi Daily — the Four Noble Truths, and 796 cards more. Free on the App Store.
 
@@ -1399,7 +1399,7 @@ The Buddha just said it plainly. *There's an ache here.* And being allowed to ad
 
 冷冷地講出來，好像很灰暗。其實不是。這是整個傳統裡最誠實、也奇怪地最讓人鬆一口氣的一句話。因為你早就知道了。就算順遂的日子，底下也一直有一絲隱隱的酸；明明沒出什麼事，卻總覺得有哪裡不對。
 
-而四周所有人都在告訴你：你應該沒事，應該感恩，應該快樂。佛陀只是把它平平地說了出來——這裡確實有一道痛。被允許承認這件事，整條路才從那裡開始。
+而四周所有人都在告訴你：你應該沒事，應該感恩，應該快樂。佛陀只是把它平平地說了出來——這裡確實有一道痛。兩千五百年過去，這仍然是這條路要你承認的第一件事。
 
 🪷 Bodhi Daily —— 四聖諦，以及另外 796 張圖卡。iOS 免費下載。
 
@@ -1426,7 +1426,7 @@ The Second Noble Truth isn't an accusation. It's the first piece of good news: *
 
 就在這一步，教法從「人生很難」轉成一件真正帶著希望的事。因為原因是可以下手的：可以看清，可以鬆開。如果你的苦只是運氣不好、只是命，那除了咬牙忍著，就無事可做。
 
-但它不是隨機的，它是被造成的。凡是被造成的，都可以被止息。集諦不是一項指控，而是第一個好消息——有原因，就有路。今天那份不舒服的底下，你正在抓著什麼不放？
+但它不是隨機的，它是被造成的。凡是被造成的，都可以被止息。集諦不是一項指控。它是第一個好消息——有原因，就有路。今天那份不舒服的底下，你正在抓著什麼不放？
 
 🪷 Bodhi Daily —— 把整條路講得可以親近。iOS 免費下載。
 
@@ -1495,9 +1495,9 @@ There's a problem, there's a cause, there's an end — and there's a *way*. That
 ### 90 · Taking Refuge　｜　皈依
 **Slides:** bodhi-90-1-hook.png · bodhi-90-2-turn.png · bodhi-90-3-concept.png · bodhi-90-4-teaching.png · bodhi-90-5-reflect.png
 
-When the storm hits — and it will — what do you reach for?
+The storm hits — and it will. You reach for whatever's nearest.
 
-Be honest. For most of us it's the unconscious stuff: a drink, a scroll, a snack, a distraction, a person we shouldn't text. We grab whatever's nearest. We don't *choose* our refuge — we just fall into it.
+Be honest about what that is. A drink, a scroll, a snack, a distraction, a person we shouldn't text. We don't *choose* our refuge — we fall into it.
 
 Buddhism offers something different: refuge taken *on purpose*. The Three Jewels — *tiratana*. The Buddha (it's possible). The Dharma (here's the way). The Sangha (you're not alone).
 
@@ -1507,11 +1507,11 @@ Taking refuge isn't a belief you sign up to. It's a decision about where you tur
 
 ⸻
 
-風暴來的時候——它一定會來——你伸手抓住什麼？誠實一點。多半是那些無意識的東西：一杯酒、一段滑不停的螢幕、一份宵夜、一個不該傳訊息的人。我們抓最近的那個，那不是選了避風處，是跌進去的。
+風暴來的時候——它一定會來——你伸手抓住最近的那一樣。誠實一點，說出那是什麼。多半是那些無意識的東西：一杯酒、一段滑不停的螢幕、一份宵夜、一個不該傳訊息的人。我們抓最近的那個，那不是選了避風處，是跌進去的。
 
 佛教給的是另一種：刻意去取的皈依。三寶（tiratana）——佛，說明這件事是可能的；法，指出路要怎麼走；僧，讓你知道你不是一個人在走。
 
-皈依不是簽下一套信念，而是一個決定：當你被搖動的時候，你要轉向哪裡。在下一場風暴到來之前，先把錨選好——趁你還算清醒，趁你還來得及選。
+皈依不需要你簽下任何信念。它只問一件事：當你被搖動的時候，你要轉向哪裡。在下一場風暴到來之前，先把錨選好——趁你還算清醒，趁你還來得及選。
 
 🪷 Bodhi Daily —— 每天都有一個安穩、可以轉向的地方。iOS 免費下載。
 
@@ -1538,7 +1538,7 @@ Most of life's wisdom is just finding that tension — for this string, today.
 
 悉達多在覺悟之前，兩個極端都走過。先是王宮，所有享樂、所有舒適，苦被擋在視線之外；然後是相反的六年苦行，用飢餓逼近真理。兩邊都沒有用——放縱使他麻木，自我懲罰只是把他弄壞。
 
-有個古老的說法：他聽見經過的船上，一位琴師說——弦太緊會斷，太鬆彈不出聲，要調得剛好。這就是「中道」（majjhimā paṭipadā）。它不是各退一步的灰色妥協，而是一次精準的調音：嚴謹到足以成長，寬和到足以走得久。
+有個古老的說法：他聽見經過的船上，一位琴師說——弦太緊會斷，太鬆彈不出聲，要調得剛好。這就是「中道」（majjhimā paṭipadā）。它不是各退一步的灰色妥協。它是一次精準的調音：嚴謹到足以成長，寬和到足以走得久。
 
 人生大半的智慧，不過是找出那個鬆緊——為這一根弦，為今天。你現在正把哪一件事，繃得太緊或放得太鬆？
 
@@ -1690,7 +1690,7 @@ You don't have to fight them. You have to *recognise* them. Naming the poison is
 ### 97 · Sangha　｜　僧伽
 **Slides:** bodhi-97-1-hook.png · bodhi-97-2-turn.png · bodhi-97-3-concept.png · bodhi-97-4-teaching.png · bodhi-97-5-reflect.png
 
-*Saṅgha* — the community of practitioners — is the third of the Three Jewels. And it's not third because it's least important. It's there because the path was never meant to be walked alone.
+*Saṅgha* — the community of practitioners — is the third of the Three Jewels. Its place in the list has nothing to do with rank. It's there because the path was never meant to be walked alone.
 
 The Sangha is the people who are trying too. Who'll tell you the truth when your ego won't. Who sit in the same silence. Who, on the day you've completely lost the thread of why any of this matters, simply remind you by still being there.
 
@@ -1702,7 +1702,7 @@ You don't have to do this by yourself. That was never the assignment.
 
 ⸻
 
-「僧伽」（saṅgha）——一起修行的人——是三寶（tiratana）中的第三個。排在第三，不是因為最不重要，而是因為這條路本來就不是設計給一個人走的。
+「僧伽」（saṅgha）——一起修行的人——是三寶（tiratana）中的第三個。排在第三，並不代表最不重要。是因為這條路本來就不是設計給一個人走的。
 
 僧伽是那些也在努力的人。是你的我執不肯說實話時，願意告訴你實話的人。是坐在同一片安靜裡的人。是在你完全想不起來這一切究竟所為何來的那天，只因為還在，就把你提醒回來的人。
 
@@ -1735,7 +1735,7 @@ It's not a creed you have to believe. It's three things to *lean on*. When you'r
 
 佛，證明一個人真的可以醒過來——不是拿來膜拜的神，是可以跟隨的樣本。法（dhamma），是路本身，是地圖，是方法。僧（saṅgha），是過去與現在，所有和你走在同一條路上的人，包括此刻正讀到這裡的你。
 
-它不是你必須相信的信條，而是三樣可以倚靠的東西。迷路的時候：一個榜樣，一張地圖，一群同行者。皈依（saraṇa）的全部結構就是這樣：不必先相信什麼，先靠上去就好。簡單，古老，至今仍撐得住。
+它不是你必須相信的信條。它是三樣可以倚靠的東西。迷路的時候：一個榜樣，一張地圖，一群同行者。皈依（saraṇa）的全部結構就是這樣：不必先相信什麼，先靠上去就好。簡單，古老，至今仍撐得住。
 
 🪷 Bodhi Daily —— 每天碰一下這條路。App Store 免費下載。
 
@@ -1849,7 +1849,7 @@ You can't always control outcomes. You can almost always check the intention.
 ### 102 · Right Action　｜　正業
 **Slides:** bodhi-102-1-hook.png · bodhi-102-2-turn.png · bodhi-102-3-concept.png · bodhi-102-4-teaching.png · bodhi-102-5-reflect.png
 
-*Sammā Kammanta* — Right Action. Your hands are always doing something. The question the path asks is simply: are they doing what your heart already knows is good?
+*Sammā Kammanta* — Right Action. Your hands are always doing something. The path asks one thing of them: that they do what your heart already knows is good.
 
 The Buddha didn't hand down a thousand-page rulebook. He offered five basic precepts as a starting frame — don't kill, don't take what isn't given, don't harm through sexuality, don't lie, don't cloud the mind. Not commandments from above. More like training wheels for a life that does less harm.
 
@@ -1859,7 +1859,7 @@ Right Action isn't about being morally perfect. It's about closing the gap — s
 
 ⸻
 
-「正業」（Sammā Kammanta）。你的手一直都在做些什麼。這條路只問一句：它們做的，是不是你心裡早就知道是好的那件事？
+「正業」（Sammā Kammanta）。你的手一直都在做些什麼。這條路只要求一件事：它們做的，就是你心裡早就知道是好的那件事。
 
 佛陀沒有交下一本千頁的規則書。他給的是五戒（pañca sīla），作為起步的框架：不殺，不取非與之物，不以性造成傷害，不妄語，不讓心昏濁。那不是從天上頒下的誡命，比較像是為了少造傷害而暫時裝上的輔助輪。
 
@@ -1876,9 +1876,9 @@ Right Action isn't about being morally perfect. It's about closing the gap — s
 
 *Sammā Ājīva* — Right Livelihood. Eight hours a day. Five days a week. For decades. Your work is not a neutral container — it shapes your character whether you're paying attention or not.
 
-The Buddha's guidance started with a floor: avoid work that directly causes harm. But for most of us, the real question is subtler and more personal. Does the way I earn my living align — even roughly — with the person I'm trying to become? Or am I quietly spending my one life on something that erodes me?
+The Buddha's guidance started with a floor: avoid work that directly causes harm. But for most of us the harder question is quieter, and more personal. Does the way I earn my living align — even roughly — with the person I'm trying to become? Or am I quietly spending my one life on something that erodes me?
 
-You may not be able to change your job tomorrow. But you can stop pretending the question doesn't exist.
+You may not be able to change your job tomorrow. You'll be there for eight hours anyway — and you can spend them without pretending the question doesn't exist.
 
 🪷 Bodhi Daily — a small daily realignment. Free on the App Store.
 
@@ -1886,9 +1886,9 @@ You may not be able to change your job tomorrow. But you can stop pretending the
 
 「正命」（Sammā Ājīva）。一天八小時，一週五天，一做就是幾十年。工作從來不是一個中性的容器——不論你有沒有在留意，它都在塑造你成為什麼樣的人。
 
-佛陀的指引先立了一道底線：避開直接造成傷害的營生。但對多數人來說，真正的問題更細，也更貼身：我賺錢的方式，跟我想成為的那個人，哪怕只是大致上，對得上嗎？還是我正安靜地把僅有的一生，花在一件慢慢磨損自己的事情上？
+佛陀的指引先立了一道底線：避開直接造成傷害的營生。但對多數人來說，更難的那個問題更安靜，也更貼身：我賺錢的方式，跟我想成為的那個人，哪怕只是大致上，對得上嗎？還是我正安靜地把僅有的一生，花在一件慢慢磨損自己的事情上？
 
-你明天也許換不了工作。但你可以停止假裝這個問題不存在。光是讓它留在心上、不急著回答，方向就已經開始悄悄移動了。
+你明天也許換不了工作。那八小時你照樣要過——你可以帶著這個問題去過，而不是假裝它不存在。
 
 🪷 Bodhi Daily —— 每天一次小小的校準。App Store 免費下載。
 
@@ -2229,7 +2229,7 @@ The myth of total independence is, on close inspection, just the loneliest story
 
 This isn't ordinary friendship. It's specifically the friendship that helps you become better. The people who, by who they are and how they live, pull you gently toward what matters instead of away from it.
 
-We become the company we keep. That's not a Hallmark line — it's something close to Buddhist physics. The conversations you're regularly in, the values you're surrounded by, the standard of being that's normal in your circle — all of it shapes you, slowly, whether you notice or not.
+We become the company we keep. That sounds like a greeting card. It's closer to Buddhist physics. The conversations you're regularly in, the values you're surrounded by, the standard of being that's normal in your circle — all of it shapes you, slowly, whether you notice or not.
 
 So choose, where you can, to be near people walking toward something good.
 
@@ -2295,7 +2295,7 @@ But the Buddhist teachers are clear: sometimes the most compassionate act isn't 
 
 這比聽起來難，因為「想解決」的衝動太強，而且非常像愛。我們在乎的人正在受苦，全身上下都伸手去找辦法、找建議、找那一線好處。但那份急，有時候是為了讓自己好受一點。
 
-但佛教的老師說得清楚：有時候最慈悲的行動不是介入，而是見證。坐在那個人的難處旁邊，不別過頭去，讓它就這樣難著，而你在。「我在這裡。我看見了。你不需要為了我而沒事。」那就是悲憫——而往往，那正是對方唯一需要的。
+但佛教的老師說得清楚：有時候最慈悲的行動不是介入，是見證。坐在那個人的難處旁邊，不別過頭去，讓它就這樣難著，而你在。「我在這裡。我看見了。你不需要為了我而沒事。」那就是悲憫——而往往，那正是對方唯一需要的。
 
 🪷 Bodhi Daily —— 每天一份安靜的陪伴。iOS 免費下載。
 
@@ -2462,7 +2462,7 @@ Most lives could use a little karesansui. What could you remove, so the essentia
 
 看起來像一種缺席，其實是一種教導。枯山水是靠「拿走」成立的：把裝飾的、多餘的全部剝掉，剩下的就是本質——形、空間、靜、關係。
 
-而耙砂本身就是修行。慢，重複，專注。不是為了耙出一件完成品，而是以耙作為在場的方式。線條會被弄亂，你會再耙一次。那不是修行的瑕疵，那就是修行。多數人的生活都可以加一點枯山水。你可以拿走什麼，好讓本質終於顯出來？
+而耙砂本身就是修行。慢，重複，專注。耙不是為了耙出一件完成品。耙本身就是在場的方式。線條會被弄亂，你會再耙一次。那不是修行的瑕疵，那就是修行。多數人的生活都可以加一點枯山水。你可以拿走什麼，好讓本質終於顯出來？
 
 🪷 Bodhi Daily —— 一天一件本質的事。iOS 免費下載。
 
@@ -2628,7 +2628,7 @@ This is the antidote to the deepest modern loneliness. You were never a separate
 
 你無法獨自存在，沒有任何東西可以。雲在紙裡。太陽在那條麵包裡。雨水、農夫、農夫的父母、土壤累積的千萬年——全都在最簡單的一件物品裡。把任何東西看得夠仔細——包括你自己——你都會在它裡面找到其餘的一切。
 
-這是現代最深那種孤獨的解藥。你從來不是一個封閉的、連接失敗的自我，你一直早就被織了進去。要做的不是去建立連結，而是去看見那個一直都在的連結。
+這是現代最深那種孤獨的解藥。你從來不是一個封閉的、連接失敗的自我，你一直早就被織了進去。要做的不是去建立連結，是去看見那個一直都在的連結。
 
 📱 Bodhi Daily —— 八百張圖卡，彼此相連。iOS 免費下載。
 
@@ -2734,7 +2734,7 @@ The Tibetan tradition holds that the Dalai Lama is an emanation of Avalokiteśva
 
 觀世音（Avalokiteśvara）——漢地稱觀音，藏地稱 Chenrezig，日本稱 Kannon。同一位菩薩，被整個佛教世界一起記住。名字本身就是那份修行：觀看世間的聲音。
 
-造像本身就把話說盡了。千手，每一隻手掌心又生一眼。那不是在講神通，是在講「容量」——能看見苦在任何地方發生，也能同時往一千個方向回應。更要緊的是：從不別過臉去。這才是這尊菩薩的核心。不是把一切修好的救援者，而是一種拒絕轉頭的在場。
+造像本身就把話說盡了。千手，每一隻手掌心又生一眼。那不是在講神通，是在講「容量」——能看見苦在任何地方發生，也能同時往一千個方向回應。更要緊的是：從不別過臉去。這才是這尊菩薩的核心。祂不是把一切修好的救援者。祂是一種拒絕轉頭的在場。
 
 藏傳說達賴喇嘛是觀音的化身。但更深的一層是：那一千隻手，是你身上本就有的可能。看見了，而且不移開視線。
 
@@ -2917,7 +2917,7 @@ Why 108? The tradition offers many answers — 108 mental afflictions to purify,
 
 The mālā is, in a sense, ancient technology for the wandering mind. The hands are given a simple, repetitive task — bead, bead, bead — and that gentle occupation lets the mind settle into the practice instead of spinning off.
 
-It's a beautifully humble insight: sometimes the mind focuses best when the body is quietly, rhythmically engaged. Not a distraction from practice. A doorway into it.
+Sometimes the mind focuses best when the body is quietly, rhythmically engaged. That's what the 108 beads are for — not a distraction from practice, a doorway into it.
 
 🪷 Bodhi Daily — one card a day, like one bead. Free on the App Store.
 
@@ -2927,7 +2927,7 @@ It's a beautifully humble insight: sometimes the mind focuses best when the body
 
 為什麼是一百零八？說法很多：一百零八種煩惱要淨化、一百零八處聖地、一個貫穿印度宇宙觀的數字。但確切的理由，其實不比這件器物實際做了什麼來得重要。念珠某種意義上是對治散亂心的古老技術：手被交付一件簡單而重複的事——一顆、一顆、一顆——這份輕微的佔用，反而讓心安得下來，不再飄走。
 
-這是一個很謙卑的洞見：有時候心最專注，正是在身體安靜而有節奏地忙著的時候。它不是修行以外的分心，它是一道進去的門。
+有時候心最專注，正是在身體安靜而有節奏地忙著的時候。那一百零八顆就是為此而設——它不是修行以外的分心，它是一道進去的門。
 
 🪷 Bodhi Daily —— 一天一張圖卡，像撥過一顆珠。iOS 免費下載。
 
